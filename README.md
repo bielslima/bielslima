@@ -8,7 +8,7 @@
 - 💻 Minha stack: Dart, Javascript.   
 - 📘 Estudando: Flutter, Node.js, Vue.js & Typescript.    
 - 💬 Sobre mim: Apaixonado por tecnologia e inovações.   
-- 📫 biel.slima1@gmail.com
+- 📫 gslima.dev@gmail.com
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 <code><a href="https://flutter.dev/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
