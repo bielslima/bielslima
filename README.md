@@ -5,7 +5,7 @@
 
 - 🚀 Buscando sempre progredir cada vez mais.   
 - ⚡ Somar de qualquer forma em qualquer projeto.   
-- 💻 Minha stack: Dart, Javascript.   
+- 💻 Minha stack: Dart, Javascript e Typescript.   
 - 📘 Estudando: Flutter, Node.js, Vue.js & Typescript.    
 - 💬 Sobre mim: Apaixonado por tecnologia e inovações.   
 - 📫 gslima.dev@gmail.com
