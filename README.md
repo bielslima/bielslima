@@ -10,7 +10,7 @@
 - 📫 gslima.dev@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/gslimadev/) -->
 
-I'm Gabriel Lima, a software developer on demand from Brazil with almost 7 years of experience on both back-end and mobile development.
+I'm Gabriel Lima, a software developer on demand from Brazil with almost 9 years of experience on both back-end and mobile development.
 
 Currently i'm working with technologies more focused on mobile development and data analysis.
 
