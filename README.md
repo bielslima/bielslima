@@ -1,21 +1,46 @@
-### Hello, friends! 👋
-<!-- I'm Software developer -->
 
-<img align="right" height="200" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/gslimadev"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 
-<!-- - 🚀 Buscando sempre evoluir pelo menos 0.1% cada dia.    
-- 💻 Minha stack: Dart, Javascript e Typescript.   
-- 📘 Estudando: Flutter, Node.js, Vue.js & Typescript.    
-- 💬 Sobre mim: Apaixonado por tecnologia e inovações.   
-- 📫 gslima.dev@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/gslimadev/) -->
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-I'm Gabriel Lima, a software developer on demand from Brazil with almost 9 years of experience on both back-end and mobile development.
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-Currently i'm working with technologies more focused on mobile development and data analysis.
+### 👨🏻‍💻 &nbsp;About Me :
 
-<code><a href="https://www.javascript.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></a></code>
-<code><a href="https://flutter.dev/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
-<code><a href="https://dart.dev/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"></a></code>
-<code><a href="https://graphql.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"></a></code>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web/mobile applications.
+- 🌱 Exploring Technical Content Writing.
+- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-gslimadev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gslimadev)
+
+---
+
+### 🛠 &nbsp;Languages and Tools :
+
+<p>
+<img  src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"  title="Flutter"  alt="Flutter"  width="40"  height="40"/>&nbsp;
+<img  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JavaScript"  alt="JavaScript"  width="40"  height="40"/>&nbsp;
+<img  src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="TypeScript"  alt="TypeScript"  width="40"  height="40"/>&nbsp;
+<img  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"  title="NodeJS"  alt="NodeJS"  width="40"  height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  title="AWS"  alt="AWS"  width="40"  height="40"/>&nbsp;
+<img  src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  title="React"  alt="React"  width="40"  height="40"/>&nbsp;
+<img  src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"  title="Material UI"  alt="Material UI"  width="40"  height="40"/>&nbsp;
+<img  src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  title="Redux"  alt="Redux "  width="40"  height="40"/>&nbsp;
+<img  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3"  alt="CSS"  width="40"  height="40"/>&nbsp;
+<img  src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  title="HTML5"  alt="HTML"  width="40"  height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"  title="Firebase"  alt="Firebase"  width="40"  height="40"/>&nbsp;
+<img  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="MySQL"  alt="MySQL"  width="40"  height="40"/>&nbsp;
+<img  src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"  title="PostgreSQL"  alt="PostgreSQL"  width="40"  height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  title="Git"  **alt="Git"  width="40"  height="40"/>&nbsp;
+</p>
+
+---
+
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bielslima&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bielslima&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
